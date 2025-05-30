@@ -25,8 +25,6 @@ A RESTful API for managing a bookstore, built with best practices for scalabilit
 2. Install dependencies:
     ```bash
     npm install
-    # or
-    yarn install
     ```
 
 3. Create a `.env` file and configure your environment variables.
